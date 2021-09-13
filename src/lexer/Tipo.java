@@ -1,0 +1,5 @@
+package lexer;
+
+public enum Tipo {
+    IDENTIFICADOR, CONSTANTE, SIMBOLO, PALAVRA_RESERVADA, OPERADOR, STRING
+}
